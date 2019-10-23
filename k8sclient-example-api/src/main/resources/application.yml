@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: k8sclient-example-api
