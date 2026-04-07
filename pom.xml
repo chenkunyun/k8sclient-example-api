@@ -28,7 +28,7 @@
         <maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
 
         <!--utils-->
-        <commons.lang3.version>3.5</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <guava.version>21.0</guava.version>
         <fastjson.version>1.2.35</fastjson.version>
         <commons.collections4.version>4.1</commons.collections4.version>
